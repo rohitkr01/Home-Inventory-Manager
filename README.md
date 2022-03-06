@@ -13,12 +13,12 @@ While completing this project, new concepts and skills you should have gained in
 
 Demo images : 
 
-<img src = "HomeInventory/images/demo10.png" height = 350px width = 600px>
+<img src = "Home_Inventory_Manager Project/images/demo10.png" height = 350px width = 600px>
 
-<img src = "HomeInventory/images/demo11.png" height = 350px width = 600px>
+<img src = "Home_Inventory_Manager Project/images/demo11.png" height = 350px width = 600px>
 
-<img src = "HomeInventory/images/demo12.png" height = 350px width = 600px>
+<img src = "Home_Inventory_Manager Project/images/demo12.png" height = 350px width = 600px>
 
-<img src = "HomeInventory/images/demo13.png" height = 350px width = 600px>
+<img src = "Home_Inventory_Manager Project/images/demo13.png" height = 350px width = 600px>
 
-<img src = "HomeInventory/images/demo14.png" height = 350px width = 600px>
+<img src = "Home_Inventory_Manager Project/images/demo14.png" height = 350px width = 600px>
